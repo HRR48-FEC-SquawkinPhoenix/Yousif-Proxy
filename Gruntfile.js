@@ -6,7 +6,7 @@ module.exports = function(grunt) {
         separator: ';',
       },
       dist: {
-        src: ['Reviews/public/bundle.js', 'Seller/client/dist/bundle.css', 'ImageCarousel/public/bundle.js', 'Add-To-Cart/Dist/bundle.js'],
+        src: ['Reviews/public/bundle.js','ImageCarousel/public/bundle.js', 'Add-To-Cart/Dist/bundle.js'],
         dest: 'Dist/built1.js',
       },
     }

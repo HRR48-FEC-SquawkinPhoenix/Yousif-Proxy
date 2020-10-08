@@ -1,6 +1,7 @@
 var component = `<!DOCTYPE html>
 <head>
   <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="http://localhost:3004/style.css" />
   <title>Petsy</title>
 </head>
 <body>
@@ -17,6 +18,7 @@ var component = `<!DOCTYPE html>
   <script src="http://localhost:3003/bundle.js"></script>
   <script src="http://localhost:3002/bundle.js"></script>
   <script src="http://localhost:3001/bundle.js"></script>
+  <script src="http://localhost:3004/bundle.js"></script>
 </body>
 </html>`
 

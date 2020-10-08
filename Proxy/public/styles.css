@@ -4,3 +4,30 @@
   opacity: 0.2;
   margin-bottom: 1rem;
 }
+
+.proxyContainer {
+  margin: 3rem;
+}
+
+#addToCart {
+  transform: translate(-5%, 0);
+  margin-right: 3%;
+  float: right;
+}
+
+#carousel {
+  margin-top: 2rem;
+  float: left;
+  max-width: 65%;
+}
+
+#reviews {
+  padding-left: 10%;
+  float: left;
+  margin-top: 3rem;
+}
+
+#seller {
+  margin-right: 5%;
+  float: right;
+}
