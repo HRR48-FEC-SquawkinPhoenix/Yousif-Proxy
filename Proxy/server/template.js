@@ -1,6 +1,6 @@
 var component = `<!DOCTYPE html>
 <head>
-  <link rel="stylesheet" href="./styles.css" />
+  <link rel="stylesheet" href="styles.css" />
   <title>Petsy</title>
 </head>
 <body>
@@ -14,7 +14,9 @@ var component = `<!DOCTYPE html>
   </div>
   <script src="https://unpkg.com/react@16/umd/react.development.js" crossorigin></script>
   <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin></script>
-  <script src="https://addtocart123.s3.us-east-2.amazonaws.com/FEC/built1.js"></script>
+  <script src="http://localhost:3003/bundle.js"></script>
+  <script src="http://localhost:3002/bundle.js"></script>
+  <script src="http://localhost:3001/bundle.js"></script>
 </body>
 </html>`
 
