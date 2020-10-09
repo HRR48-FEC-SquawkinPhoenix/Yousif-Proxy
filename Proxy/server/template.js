@@ -15,6 +15,7 @@ var component = `<!DOCTYPE html>
   </div>
   <script src="https://unpkg.com/react@16/umd/react.development.js" crossorigin></script>
   <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin></script>
+  <script src="https://kit.fontawesome.com/d236a51708.js"></script>
   <script src="http://localhost:3003/bundle.js"></script>
   <script src="http://localhost:3002/bundle.js"></script>
   <script src="http://localhost:3001/bundle.js"></script>
