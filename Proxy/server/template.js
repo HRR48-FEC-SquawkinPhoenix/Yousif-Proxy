@@ -17,7 +17,6 @@ var component = `<!DOCTYPE html>
   <script src="https://kit.fontawesome.com/d236a51708.js"></script>
   <script src="http://18.191.153.144:3003/bundle.js"></script>
   <script src="http://3.133.137.6:3002/bundle.js"></script>
-  <script src="http://18.189.169.110:3000/bundle.js"></script>
 </body>
 </html>`
 
